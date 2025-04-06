@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-06T19:56:18Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.07,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "TEMA_TSC1 v15"
+        },
+        "Owner": "Vanessa Cupșan <teodoravanessacupsan2004@gmail.com>",
+        "Size": {
+            "X": 170.2,
+            "Y": 111.2
+        }
+    }
+}
